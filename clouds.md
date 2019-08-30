@@ -113,8 +113,11 @@ ps-e | grep ssh
 ```
 可以查看ssh是否启动
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019083021072475.png)
+
 通过ifconfig命令查看IP地址
+&nbsp;
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190830211030340.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FnZW50MDAyNA==,size_16,color_FFFFFF,t_70)
+&nbsp;
 
 最后进入mac的命令行，通过ssh访问虚拟机即可，命令如下，需要自行替换用户名和IP地址
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190830211207197.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FnZW50MDAyNA==,size_16,color_FFFFFF,t_70)
