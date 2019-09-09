@@ -1,1 +1,1 @@
-Sevice Computing Class Blog
+Sevice Computing Class
