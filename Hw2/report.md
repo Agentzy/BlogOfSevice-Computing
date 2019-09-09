@@ -1,5 +1,3 @@
-
-
 # 基于OS X系统的第一个go语言包开发与测试
 
 ## 安装golang
@@ -144,4 +142,3 @@ go env命令可以查看刚才得配置是否生效
 ## 附录
 
 [我的另一篇相关博客](https://blog.csdn.net/agent0024/article/details/100665683)
-
