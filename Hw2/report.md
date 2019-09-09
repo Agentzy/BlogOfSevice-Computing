@@ -133,3 +133,17 @@ go env命令可以查看刚才得配置是否生效
 
 此处由于作业中创建的目录条目与我github的仓库条目不一致，采用的是git clone在添加文件的方式，如果是要添加本地仓库，只需要添加一条git init命令进行初始化
 
+`git clone `命令直接从我的github拷贝创建好的仓库
+
+`git add .`
+
+`git commit -m ""`两条命令实现确认添加内容
+
+`git push`命令将当前内容推送到远程库就完成啦
+
+
+
+## 附录
+
+[我的另一篇相关博客](https://blog.csdn.net/agent0024/article/details/100665683)
+
