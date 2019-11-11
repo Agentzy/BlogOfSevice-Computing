@@ -1,7 +1,8 @@
 ## 框架选择
 ### beego 
 
-框架选取我参考了https://blog.csdn.net/dev_csdn/article/details/78740990，选择了目前人气最高的beego框架
+框架选取我参考了https://blog.csdn.net/dev_csdn/article/details/78740990
+选择了目前人气最高的beego框架
 
 beego框架相较其他几个框架，有中文官网易于理解，框架特性如下
 
